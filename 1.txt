@@ -1,0 +1,3 @@
+ type of event_BirthDay_2020_10_10_10_0_ivan_dom_22
+ type of event_Custom_2020_10_20_20_0_privet
+ type of event_Meeting_2021_12_12_12_10_nikolay_park
